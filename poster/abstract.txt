@@ -1,6 +1,17 @@
 Replicating results of 2016 March Madness Tournament 
 Bryan Katterman, Alejandro Martinez
 
-  Correctly predicting the odds of all 63 games of the March Madness tournament if relegated to just pure random chance, are 1 in 9,223,372,036,854,775,808 (over one in nine quintillion). Our goal for this project was to create a monte carlo model to predict the outcome of the 2016 NCAA March-Madness tournament and compare our results with industry claimed predictive standards. We accomplished this by collected statistics on the outcomes of the previous 35 years of tournaments in conjunction with the statistics from the 2016 participating teams and created a monte carlo model using basic Bayesian inference. The two biggest hurdles for this project have been: a) the time consuming nature of gathering and analyzing statistics to build an accurate model and b)trying to find industry hints toward what accurate prediction algorithms looks like. The latter is something the sports and gaming industries rarely disclose and as an outsider, we had to create our own predictive equations. Overall, we achieved our goal of creating a predictive model using team statistics, however our results were fairly inaccurate. Our model was able to correctly predict the winner of the tournament at a rate of 1 in 32, and the 2 teams that made it to the championship games at a rate of 1 in 270, which are odds about twice and fifteen times better than chance respectively. Future work will include updating our model with more robust statistics to improve accuracy and research player stats to feed into the model.
+  Correctly predicting the odds of all 63 games of the March Madness tournament if relegated to just pure random chance, are 1 in 9,223,
+  372,036,854,775,808 (over one in nine quintillion). Our goal for this project was to create a Monte Carlo model to predict the outcome
+  of the 2016 NCAA March-Madness tournament and compare our results with industry claimed predictive standards. We accomplished this by
+  collected statistics on the outcomes of the previous 35 years of tournaments in conjunction with the statistics from the 2016
+  participating teams and created a Monte Carlo model using basic Bayesian inference. The two biggest hurdles for this project have been:
+  a) the time consuming nature of gathering and analyzing statistics to build an accurate model and b)trying to find industry hints
+  toward what accurate prediction algorithms looks like. The latter is something the sports and gaming industries rarely disclose and as
+  an outsider, we had to create our own predictive equations. Overall, we achieved our goal of creating a predictive model using team
+  statistics, however our results were fairly inaccurate. Our model was able to correctly predict the winner of the tournament at a rate
+  of 1 in 32, and the 2 teams that made it to the championship games at a rate of 1 in 270, which are odds about twice and four times
+  better than chance respectively. Future work will include updating our model with more robust statistics to improve accuracy and
+  research player stats to feed into the model.
 
 code is available at https://github.com/ASU-CompMethodsPhysics-PHY494/final-march-madness.git [under<Apache 2.0>]
