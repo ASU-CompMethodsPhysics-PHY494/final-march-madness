@@ -14,4 +14,4 @@ Bryan Katterman, Alejandro Martinez
   better than chance respectively. Future work will include updating our model with more robust statistics to improve accuracy and
   research player stats to feed into the model.
 
-code is available at https://github.com/ASU-CompMethodsPhysics-PHY494/final-march-madness.git [under<Apache 2.0>]
+Code is available at https://github.com/ASU-CompMethodsPhysics-PHY494/final-march-madness.git [under<Apache 2.0>]
