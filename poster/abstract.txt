@@ -6,7 +6,7 @@ Bryan Katterman, Alejandro Martinez
   of the 2016 NCAA March-Madness tournament and compare our results with industry claimed predictive standards. We accomplished this by
   collected statistics on the outcomes of the previous 35 years of tournaments in conjunction with the statistics from the 2016
   participating teams and created a Monte Carlo model using basic Bayesian inference. The two biggest hurdles for this project have been:
-  a) the time consuming nature of gathering and analyzing statistics to build an accurate model and b)trying to find industry hints
+  a) the time consuming nature of gathering and analyzing statistics to build an accurate model and b) trying to find industry hints
   toward what accurate prediction algorithms look like. The latter is something the sports and gaming industries rarely disclose and as
   an outsider, we had to create our own predictive equations. Overall, we achieved our goal of creating a predictive model using team
   statistics, however our results were fairly inaccurate. Our model was able to correctly predict the winner of the tournament at a rate
