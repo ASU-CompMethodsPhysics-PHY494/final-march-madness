@@ -1,0 +1,16 @@
+Contributions:
+
+Alejandro Martinez
+- Rresearched previouly done things
+- Redesigned main structure of the simulation; converted all code to object oriented based
+- Looked for ways to test predictive models
+- Optimized code for efficiency
+- Created weighting standards and integrated into code 
+- Coded monte carlo tournament loops
+
+Bryan Katterman
+- Gathered and analyzed team and tournament statistics
+- Created / populated statistics reference arrays
+- Coded prediction algorithm and monte carlo tournament loops
+- Created the initial prediction model of how the program and algorithms can be structured.
+- Data, graphs and analysis
